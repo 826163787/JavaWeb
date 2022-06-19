@@ -1,0 +1,7 @@
+1.web文件夹需要加载到项目结构
+2.config文件夹需要标记为项目config
+3.需要新建lib文件夹并且导入jar包
+4.数据库名称，账号密码需要改变
+
+
+1.spring项目 先改maven   file-setting-building-maven
